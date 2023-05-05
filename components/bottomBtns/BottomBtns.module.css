@@ -1,0 +1,10 @@
+.bottomBtnOut {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 2rem;
+    padding-top: 0.5rem;
+}
+
+.bottomBtnOut .bottomBtnIn {
+    width: 30%;
+}
